@@ -1,0 +1,8 @@
+[package]
+name = "clia-local-offset"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+time = "0.3"
+tz-rs = "0.6"
