@@ -2,6 +2,8 @@
 
 Get current local timezone offset simplely.
 
+This crate uses `tz-rs` to obtain local timezone offset, and returns a `time-rs` `UtcOffset`.
+
 ## Usage
 
 ```rust
