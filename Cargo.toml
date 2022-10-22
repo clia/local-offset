@@ -2,6 +2,13 @@
 name = "clia-local-offset"
 version = "0.1.0"
 edition = "2021"
+authors = ["clia <clia@163.com>"]
+description = "Get current local timezone offset simplely."
+homepage = "https://github.com/clia/local-offset"
+repository = "https://github.com/clia/local-offset"
+license = "MIT"
+readme = "README.md"
+keywords = [ "time", "timezone", "local" ]
 
 [dependencies]
 time = "0.3"
